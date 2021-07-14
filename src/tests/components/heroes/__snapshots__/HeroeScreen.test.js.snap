@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <HeroeScreen /> Debe mostrar un heroe si el parametro existe y se encuentra 1`] = `
+<div
+  className="row mt-5"
+>
+  <div
+    className="col-4"
+  >
+    <img
+      alt="Batman"
+      className="img-thumbnail  animate__animated animate__fadeInLeft"
+      src="../assets/heroes/dc-batman.jpg"
+    />
+  </div>
+  <div
+    className="col-8 animate__animated animate__fadeIn"
+  >
+    <h3>
+      Batman
+    </h3>
+    <ul
+      className="list-group list-group-flush"
+    >
+      <li
+        className="list-group-item"
+      >
+        <strong>
+          Alter ego:
+        </strong>
+         
+        Bruce Wayne
+      </li>
+      <li
+        className="list-group-item"
+      >
+        <strong>
+          Publisher:
+        </strong>
+         
+        DC Comics
+      </li>
+      <li
+        className="list-group-item"
+      >
+        <strong>
+          First appearance:
+        </strong>
+         
+        Detective Comics #27
+      </li>
+    </ul>
+    <h5>
+      Characters
+    </h5>
+    <p>
+      Bruce Wayne
+    </p>
+    <button
+      className="btn btn-primary"
+      onClick={[Function]}
+    >
+      Return
+    </button>
+  </div>
+</div>
+`;
